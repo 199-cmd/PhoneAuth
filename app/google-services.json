@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "985914296620",
+    "firebase_url": "https://backend-d560f-default-rtdb.firebaseio.com",
+    "project_id": "backend-d560f",
+    "storage_bucket": "backend-d560f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985914296620:android:8f46e45e0e84404a1cc489",
+        "android_client_info": {
+          "package_name": "com.nitya.backend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985914296620-u1bl6ucn0e915ifb1s32evj4h9cdp356.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr8UEw8jBduOOqfKnX3gzuOWqBFR2ChsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985914296620-u1bl6ucn0e915ifb1s32evj4h9cdp356.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985914296620:android:35bbb9d9c0463a7a1cc489",
+        "android_client_info": {
+          "package_name": "com.nitya.otpverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985914296620-jvp3lruqntvueik0k3rgv2lci2jslr8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nitya.otpverification",
+            "certificate_hash": "06661e805a86af6e2fc439b17e958a501b28e371"
+          }
+        },
+        {
+          "client_id": "985914296620-u1bl6ucn0e915ifb1s32evj4h9cdp356.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr8UEw8jBduOOqfKnX3gzuOWqBFR2ChsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985914296620-u1bl6ucn0e915ifb1s32evj4h9cdp356.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985914296620:android:250105e5c0f55b8d1cc489",
+        "android_client_info": {
+          "package_name": "com.nitya.verifymyphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985914296620-2hgnas0brj8kcegtrbmlp895totcj30k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nitya.verifymyphone",
+            "certificate_hash": "06661e805a86af6e2fc439b17e958a501b28e371"
+          }
+        },
+        {
+          "client_id": "985914296620-u1bl6ucn0e915ifb1s32evj4h9cdp356.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr8UEw8jBduOOqfKnX3gzuOWqBFR2ChsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985914296620-u1bl6ucn0e915ifb1s32evj4h9cdp356.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
